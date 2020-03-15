@@ -1,2 +1,3 @@
 class Author 
-  attr_accessor :jkro
+  attr_accessor :jkrowling
+end

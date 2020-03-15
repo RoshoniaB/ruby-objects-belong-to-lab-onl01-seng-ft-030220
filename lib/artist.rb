@@ -1,3 +1,3 @@
 class Artist 
-  attr_accessor :janet 
+  attr_accessor :name  
 end  
